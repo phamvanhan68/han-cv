@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/han-cv/static/css/main.c37751de.chunk.css",
+    "main.js": "/han-cv/static/js/main.48fe6dbd.chunk.js",
+    "main.js.map": "/han-cv/static/js/main.48fe6dbd.chunk.js.map",
+    "runtime-main.js": "/han-cv/static/js/runtime-main.4d773455.js",
+    "runtime-main.js.map": "/han-cv/static/js/runtime-main.4d773455.js.map",
+    "static/css/2.220ccb42.chunk.css": "/han-cv/static/css/2.220ccb42.chunk.css",
+    "static/js/2.d1df7829.chunk.js": "/han-cv/static/js/2.d1df7829.chunk.js",
+    "static/js/2.d1df7829.chunk.js.map": "/han-cv/static/js/2.d1df7829.chunk.js.map",
+    "index.html": "/han-cv/index.html",
+    "precache-manifest.53385b3b91e166c8a8bc39ae75911247.js": "/han-cv/precache-manifest.53385b3b91e166c8a8bc39ae75911247.js",
+    "service-worker.js": "/han-cv/service-worker.js",
+    "static/css/2.220ccb42.chunk.css.map": "/han-cv/static/css/2.220ccb42.chunk.css.map",
+    "static/css/main.c37751de.chunk.css.map": "/han-cv/static/css/main.c37751de.chunk.css.map",
+    "static/js/2.d1df7829.chunk.js.LICENSE.txt": "/han-cv/static/js/2.d1df7829.chunk.js.LICENSE.txt",
+    "static/media/duytan_logo.png": "/han-cv/static/media/duytan_logo.50d5dc50.png",
+    "static/media/framgia_logo.png": "/han-cv/static/media/framgia_logo.ef82b5ab.png",
+    "static/media/nodejs_logo_large.png": "/han-cv/static/media/nodejs_logo_large.994977c4.png",
+    "static/media/python_logo_large.jpg": "/han-cv/static/media/python_logo_large.a72ba292.jpg",
+    "static/media/reactjs_logo_large.png": "/han-cv/static/media/reactjs_logo_large.8c0e654e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d773455.js",
+    "static/css/2.220ccb42.chunk.css",
+    "static/js/2.d1df7829.chunk.js",
+    "static/css/main.c37751de.chunk.css",
+    "static/js/main.48fe6dbd.chunk.js"
+  ]
+}
