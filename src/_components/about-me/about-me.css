@@ -1,0 +1,15 @@
+.main-about-me {
+    width: 100%;
+    float: left;
+    justify-content: center;
+    text-align: left;
+    padding: 5px 15px;
+    /* background-color: aqua; */
+}
+
+p {
+    word-break: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0px;
+}

@@ -1,0 +1,15 @@
+.slider-container {
+    width: 90%;
+    margin: 5px auto 10px auto;
+}
+
+.tooltip {
+    display: none;
+    position: absolute;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.slider-container:hover .tooltip {
+    display: block;
+}

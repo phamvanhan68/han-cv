@@ -1,0 +1,46 @@
+.main-header {
+    border: 2px solid rgb(160, 178, 184);
+    border-radius: 4px;
+    margin: 10px 0px;
+}
+
+.content-container {
+    display: block;
+    background-color: rgb(200, 211, 214);
+}
+
+.item-in-header {
+    display: inline-flex;
+    margin: 10px 20px;
+    /* background-color: blue; */
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.item-in-header > h4 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icon-in-header {
+    width: 16px;
+    height: 16px;
+    /* background-color: brown; */
+}
+
+h4 {
+    margin-left: 10px;
+}
+
+a {
+    font-size: 14px;
+    line-height: 10px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+}

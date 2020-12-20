@@ -1,0 +1,41 @@
+.object-component {
+    padding: 15px;
+    /* background-color: aqua; */
+    clear: both;
+}
+
+.logo {
+    float: left;
+    width: fit-content;
+}
+
+.detail {
+    float: left;
+    padding-left: 10px;
+    width: 79%;
+    text-align: left;
+}
+
+.title-description {
+    line-height: 20px;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+.time-description {
+    font-size: 12px;
+    line-height: 14px;
+    background: none;
+    padding: 0;
+    font-family: serif;
+}
+
+.role {
+    margin: 0;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: serif;
+    font-weight: 500;
+}
