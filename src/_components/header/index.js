@@ -11,7 +11,7 @@ function Header() {
                 </div>
                 <div className="item-in-header">
                     <img className='icon-in-header' src={require('./../../images/icons/phone.png')}/>
-                    <h4>0968011442</h4>
+                    <h4>0968011***</h4>
                 </div>
                 <div className="item-in-header">
                     <img className='icon-in-header' src={require('./../../images/icons/message.png')}/>
