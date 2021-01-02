@@ -1,29 +1,34 @@
 {
   "files": {
     "main.css": "/han-cv/static/css/main.c37751de.chunk.css",
-    "main.js": "/han-cv/static/js/main.43696d96.chunk.js",
-    "main.js.map": "/han-cv/static/js/main.43696d96.chunk.js.map",
+    "main.js": "/han-cv/static/js/main.283944ef.chunk.js",
+    "main.js.map": "/han-cv/static/js/main.283944ef.chunk.js.map",
     "runtime-main.js": "/han-cv/static/js/runtime-main.4d773455.js",
     "runtime-main.js.map": "/han-cv/static/js/runtime-main.4d773455.js.map",
     "static/css/2.220ccb42.chunk.css": "/han-cv/static/css/2.220ccb42.chunk.css",
     "static/js/2.b65fe7bd.chunk.js": "/han-cv/static/js/2.b65fe7bd.chunk.js",
     "static/js/2.b65fe7bd.chunk.js.map": "/han-cv/static/js/2.b65fe7bd.chunk.js.map",
     "index.html": "/han-cv/index.html",
-    "precache-manifest.d2ca9aa277d65003c5356b32d24ba1b5.js": "/han-cv/precache-manifest.d2ca9aa277d65003c5356b32d24ba1b5.js",
+    "precache-manifest.dceee6f3b3d65a7deb60b923ef3bbbd7.js": "/han-cv/precache-manifest.dceee6f3b3d65a7deb60b923ef3bbbd7.js",
     "service-worker.js": "/han-cv/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/han-cv/static/css/2.220ccb42.chunk.css.map",
     "static/css/main.c37751de.chunk.css.map": "/han-cv/static/css/main.c37751de.chunk.css.map",
     "static/js/2.b65fe7bd.chunk.js.LICENSE.txt": "/han-cv/static/js/2.b65fe7bd.chunk.js.LICENSE.txt",
-    "static/media/duytan_logo.png": "/han-cv/static/media/duytan_logo.50d5dc50.png",
-    "static/media/nodejs_logo_large.png": "/han-cv/static/media/nodejs_logo_large.994977c4.png",
-    "static/media/python_logo_large.jpg": "/han-cv/static/media/python_logo_large.a72ba292.jpg",
-    "static/media/reactjs_logo_large.png": "/han-cv/static/media/reactjs_logo_large.8c0e654e.png"
+    "static/media/duytan_logo.webp": "/han-cv/static/media/duytan_logo.025f4711.webp",
+    "static/media/enclave_logo.webp": "/han-cv/static/media/enclave_logo.40c8ae7a.webp",
+    "static/media/inquirer_logo.webp": "/han-cv/static/media/inquirer_logo.b4391dee.webp",
+    "static/media/nodejs_logo.webp": "/han-cv/static/media/nodejs_logo.cfa26491.webp",
+    "static/media/nodejs_logo_large.webp": "/han-cv/static/media/nodejs_logo_large.4ce0222e.webp",
+    "static/media/python_logo.webp": "/han-cv/static/media/python_logo.cdc20eaf.webp",
+    "static/media/python_logo_large.webp": "/han-cv/static/media/python_logo_large.cd9030c7.webp",
+    "static/media/react_logo.webp": "/han-cv/static/media/react_logo.2df758c2.webp",
+    "static/media/reactjs_logo_large.webp": "/han-cv/static/media/reactjs_logo_large.b9a8dbe0.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.4d773455.js",
     "static/css/2.220ccb42.chunk.css",
     "static/js/2.b65fe7bd.chunk.js",
     "static/css/main.c37751de.chunk.css",
-    "static/js/main.43696d96.chunk.js"
+    "static/js/main.283944ef.chunk.js"
   ]
 }
