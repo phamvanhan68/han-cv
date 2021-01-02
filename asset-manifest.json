@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/han-cv/static/css/main.c37751de.chunk.css",
-    "main.js": "/han-cv/static/js/main.423ccd59.chunk.js",
-    "main.js.map": "/han-cv/static/js/main.423ccd59.chunk.js.map",
+    "main.js": "/han-cv/static/js/main.43696d96.chunk.js",
+    "main.js.map": "/han-cv/static/js/main.43696d96.chunk.js.map",
     "runtime-main.js": "/han-cv/static/js/runtime-main.4d773455.js",
     "runtime-main.js.map": "/han-cv/static/js/runtime-main.4d773455.js.map",
     "static/css/2.220ccb42.chunk.css": "/han-cv/static/css/2.220ccb42.chunk.css",
     "static/js/2.b65fe7bd.chunk.js": "/han-cv/static/js/2.b65fe7bd.chunk.js",
     "static/js/2.b65fe7bd.chunk.js.map": "/han-cv/static/js/2.b65fe7bd.chunk.js.map",
     "index.html": "/han-cv/index.html",
-    "precache-manifest.28e67589ce86f95240cae3a8e0f486c0.js": "/han-cv/precache-manifest.28e67589ce86f95240cae3a8e0f486c0.js",
+    "precache-manifest.d2ca9aa277d65003c5356b32d24ba1b5.js": "/han-cv/precache-manifest.d2ca9aa277d65003c5356b32d24ba1b5.js",
     "service-worker.js": "/han-cv/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/han-cv/static/css/2.220ccb42.chunk.css.map",
     "static/css/main.c37751de.chunk.css.map": "/han-cv/static/css/main.c37751de.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.220ccb42.chunk.css",
     "static/js/2.b65fe7bd.chunk.js",
     "static/css/main.c37751de.chunk.css",
-    "static/js/main.423ccd59.chunk.js"
+    "static/js/main.43696d96.chunk.js"
   ]
 }
